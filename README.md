@@ -2,10 +2,6 @@
 
 This project was generated via [manage-fastapi](https://ycd.github.io/manage-fastapi/)!
 
-Contact info:
- - Lyes HAMIDOUCHE
- - Email: l.hamidouche@gmail.com
- - Phone number: 06 13 96 29 02
 
 # To run the project
 Requirements:
