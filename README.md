@@ -16,6 +16,11 @@ docker-compose build
 docker-compose up -d
 docker-compose exec database bash /var/tmp/setup.sh
 ```
+To run auto tests
+```bash
+cd </path/to/this/folder> # the path where you did put this folder
+docker-compose exec -i app pytest
+```
 To stop the server
 ```bash
 cd </path/to/this/folder> # the path where you did put this folder
